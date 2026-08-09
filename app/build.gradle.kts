@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.manifestcargo"
-        minSdk = 24
+        minSdk = 26 // <-- Diubah dari 24 ke 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
